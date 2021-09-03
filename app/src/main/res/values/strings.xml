@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ChangeColor</string>
+    <string name="preenc_cor">Preenchimento com cor?</string>
+</resources>
